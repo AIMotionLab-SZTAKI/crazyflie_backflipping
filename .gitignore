@@ -1,0 +1,6 @@
+.idea/
+venv/
+assets/_*
+ctrl/_*
+crazyflie_backflipping.egg-info/
+files/
